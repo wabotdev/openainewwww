@@ -1,5 +1,5 @@
 const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
+const donet = "https://instagram.com/andiigndr29";
 const owner = ["6288220154946"];
 const {
   default: sansekaiConnect,
